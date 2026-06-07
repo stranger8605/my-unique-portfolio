@@ -5,7 +5,7 @@ const About = () => {
     { icon: MapPin, text: "Bhavani, Erode, Tamil Nadu" },
     { icon: Phone, text: "+91 8015978929" },
     { icon: Mail, text: "vickyt8605@gmail.com" },
-    { icon: Github, text: "vicky_t8605", link: "https://github.com/vicky_t8605" },
+    { icon: Github, text: "vicky_t867505", link: "https://github.com/vicky_t867505" },
   ];
 
   return (
