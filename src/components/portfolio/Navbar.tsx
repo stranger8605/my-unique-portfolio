@@ -13,7 +13,7 @@ const Navbar = () => {
         
         <div className="flex items-center gap-4">
           <a 
-            href="https://github.com/stranger8605" 
+            href="https://github.com/vicky_t8605" 
             target="_blank" 
             rel="noopener noreferrer"
             className="p-2 rounded-lg hover:bg-secondary transition-colors"
